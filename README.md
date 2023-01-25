@@ -1,4 +1,4 @@
-"# ECUT_TodayCampus" 
+# ECUT_TodayCampus 
 
 # 此项目为原作二次完善，用于适配东华理工大学签到打卡
 
